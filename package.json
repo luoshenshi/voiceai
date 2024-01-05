@@ -1,0 +1,20 @@
+{
+  "name": "voiceai",
+  "version": "1.0.0",
+  "description": "This is an unofficial API of speechify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "voice",
+    "speech",
+    "tts"
+  ],
+  "author": "luoshenshi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.4",
+    "request": "^2.88.2"
+  }
+}
